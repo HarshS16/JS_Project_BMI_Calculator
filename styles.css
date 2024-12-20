@@ -1,10 +1,12 @@
 body{
+    background-color: antiquewhite;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
-    background-color: antiquewhite;
+    font-family: Arial, sans-serif;
+    color: #333;
 }
+
 
 
 
@@ -30,9 +32,9 @@ body{
   
   #results {
     font-size: 35px;
-    margin-left: 40px;
+    margin-left: 90px;
     margin-top: 20px;
-    color: rgb(4, 2, 2);
+    color: rgb(28, 19, 19);
   }
   
   button {
@@ -40,10 +42,10 @@ body{
     height: 35px;
     margin-left: 90px;
     margin-top: 25px;
-    background-color: #fff;
+    background-color: #57cc1d;
     padding: 1px 30px;
     border-radius: 8px;
-    color: #212121;
+    color: white;
     text-decoration: none;
     border: 2px solid #212121;
   
