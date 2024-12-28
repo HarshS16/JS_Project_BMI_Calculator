@@ -26,7 +26,7 @@ body{
   }
   
   #weight-guide {
-    margin-left: 75px;
+    margin-left: 50px;
     margin-top: 25px;
   }
   
@@ -40,7 +40,7 @@ body{
   button {
     width: 150px;
     height: 35px;
-    margin-left: 90px;
+    margin-left: 60px;
     margin-top: 25px;
     background-color: #57cc1d;
     padding: 1px 30px;
@@ -48,7 +48,8 @@ body{
     color: white;
     text-decoration: none;
     border: 2px solid #212121;
-  
+    text-align: center;
+    justify-content: center;
     font-size: 25px;
   }
   
